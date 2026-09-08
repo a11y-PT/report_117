@@ -5,22 +5,20 @@ uri: "https://www.sjpesqueira.pt/"   # Entre as aspas escreve o domínio do webs
 a11y_statement: "https://www.sjpesqueira.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "CM de São João da Pesqueira"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "08-09-2026 a 08-09-2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
-# Relatório de auditoria
-
-Sítio Web: {{ page.website }}
+# Site Institucional do Município de São João da Pesqueira (Sítio Web)
 
 - Data de criação: 13/07/2026
 - URL: https://www.sjpesqueira.pt/
 - Propriedade: CM de São João da Pesqueira
 - Candidatura: Ouro
-- Validade do selo: dd/mm/aaaa a dd/mm/aaaa
-- Estado: A aguardar correções da entidade
+- Validade do selo: 08-09-2026 a 08-09-2027
+- Estado: Concluído
 
-## Relatório Site Institucional do Município de São João da Pesqueira
+## Relatório de auditoria
 
 <p>O presente relatório resultou da auditoria da informação publicada na <a href="{{ page.a11y_statement }}">Declaração de Acessibilidade e Usabilidade</a>.</p>
 
@@ -29,7 +27,7 @@ Consulte aqui a última atualização: [Relatório Município de São João da P
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="31072026_report.html">(31/07/2026). Relatório Município de São João da Pesqueira</a></li>
+    <li><a href="08092026_report.html">(08/09/2026). Relatório Município de São João da Pesqueira</a></li>
   </ul>
 </details>
 
